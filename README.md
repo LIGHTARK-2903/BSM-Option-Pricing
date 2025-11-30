@@ -1,6 +1,6 @@
 # BSM Option Pricing & Greeks Calculator 🧮📈
 
-**Author:** Naman Choudhary (LIGHTARK)  
+**Author:** Naman Narendra Choudhary
 **Repo:** LIGHTARK-2903/BSM-Option-Pricing  
 
 ---
